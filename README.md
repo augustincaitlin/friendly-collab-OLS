@@ -17,3 +17,9 @@ This is my test respository for the OLS-4 workshop on 10/13.
 ![image of network for contributions](https://www.nobledesktop.com/image/blog/git-distributed-workflow-diagram.png)
 
 [Image source](https://www.nobledesktop.com/image/blog/git-distributed-workflow-diagram.png)
+
+### Things to do after this workshop
+
+* Create repo for project
+* Create webpage for project
+* Update
