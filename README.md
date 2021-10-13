@@ -1,2 +1,3 @@
-# friendly-collab-OLS
-OLS-4 demo session
+# Friendly-Collab-OLS
+
+This is my test respository for the OLS-4 workshop on 10/13. 
